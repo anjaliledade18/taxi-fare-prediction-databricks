@@ -1,6 +1,8 @@
 #  Bangalore Taxi Fare Prediction – End-to-End Databricks Pipeline
 
-This project demonstrates an **end-to-end data engineering and machine learning pipeline** built using **Azure Databricks** and **PySpark**, following the **Medallion Architecture (Bronze, Silver, Gold)**.
+This project demonstrates an end-to-end data engineering and machine learning pipeline built using Azure Databricks and PySpark, following the **Medallion Architecture (Bronze, Silver, Gold).
+
+I built an end-to-end taxi fare prediction pipeline using Azure Databricks, following the Medallion architecture, and deployed batch ML predictions using Spark ML.
 
 ---
 
